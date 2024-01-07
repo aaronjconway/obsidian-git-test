@@ -1,4 +1,6 @@
 here is a test
+Here is an edit from the github website. testing how we are going to resolve divergent branches
+
 
 [[test]]
 
