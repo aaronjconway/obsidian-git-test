@@ -1,6 +1,6 @@
-here is a test
-Here is an edit from the github website. testing how we are going to resolve divergent branches
-
+here is another test.
+Here is an edit ebsite. testing how we are going to resolve divergent branches
+beans
 
 [[test]]
 
